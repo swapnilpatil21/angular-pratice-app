@@ -4,7 +4,13 @@
 
 ## Development server
 
+
+### Run Angular from project root dir
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+### Run Node ExpressJS server from /api
+`npm start`
+
 
 ## Code scaffolding
 
